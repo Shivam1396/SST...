@@ -1,0 +1,9 @@
+name: my-env
+version: "1.0"
+tasks:
+  - id: easy
+    description: "..."
+  - id: medium
+    description: "..."
+  - id: hard
+    description: "..."
