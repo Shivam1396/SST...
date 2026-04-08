@@ -1,0 +1,9 @@
+[project]
+name = "s-hackathon"
+version = "0.1.0"
+description = "Hackathon project"
+dependencies = [
+    "flask",
+    "torch",
+    "transformers"
+]
